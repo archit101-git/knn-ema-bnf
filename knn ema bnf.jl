@@ -1,7 +1,7 @@
 //@version=5
 strategy('Machine Learning: kNN-based Strategy with EMA', 'ML-kNN-EMA', overlay=true, max_labels_count=300, format=format.price, precision=2)
 
-// kNN-based Strategy (FX and Crypto)
+// kNN-based Strategy
 // Description: 
 // This strategy uses a classic machine learning algorithm - k Nearest Neighbours (kNN) - 
 // to let you find a prediction for the next (tomorrow's, next month's, etc.) market move. 
